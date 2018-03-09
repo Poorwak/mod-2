@@ -1,0 +1,11 @@
+2018-01-23 10:42:16,255 - TestCalculator.class - WARN - This is warn message: 0
+2018-01-23 10:42:16,255 - TestCalculator.class - FATAL - This is fatal error
+2018-01-23 10:42:16,255 - TestCalculator.class - ERROR - / by zero
+2018-01-23 10:44:08,891 - TestCalculator.class - WARN - This is warn message: 25
+2018-01-23 10:44:08,891 - TestCalculator.class - FATAL - This is fatal error
+2018-01-23 10:44:23,826 - TestCalculator.class - WARN - This is warn message: 0
+2018-01-23 10:44:23,842 - TestCalculator.class - FATAL - This is fatal error
+2018-01-23 10:44:23,842 - TestCalculator.class - ERROR - / by zero
+2018-01-23 10:45:16,985 - TestCalculator.class - WARN - This is warn message: 0
+2018-01-23 10:45:16,985 - TestCalculator.class - FATAL - This is fatal error
+2018-01-23 10:45:16,985 - TestCalculator.class - ERROR - / by zero
