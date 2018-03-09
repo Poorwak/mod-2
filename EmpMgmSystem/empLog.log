@@ -1,0 +1,5 @@
+2018-01-23 12:00:57,902 - EmpDaoImpl.class - INFO - Emp Inserted: Employee [empId=0, empName=Amit, empSal=27000.0, empDOJ=null]
+2018-01-23 17:42:23,377 - EmpDaoImpl.class - INFO - Emp Inserted: Employee [empId=0, empName=Namrata, empSal=5000.0, empDOJ=null]
+2018-01-23 17:47:41,174 - EmpDaoImpl.class - INFO - Emp Inserted: Employee [empId=0, empName=Namrata, empSal=25000.0, empDOJ=null]
+2018-01-24 11:33:35,217 - EmpDaoImpl.class - INFO - Emp Inserted: Employee [empId=1008, empName=AAA, empSal=1000.0, empDOJ=null]
+2018-01-24 11:33:35,341 - EmpDaoImpl.class - INFO - Emp Inserted: Employee [empId=1008, empName=AAA, empSal=1000.0, empDOJ=null]
